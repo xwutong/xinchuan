@@ -1,8 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 description: ""
+date: {{ .Date }}
+publishDate: {{ .Date }}
+author: ""
 draft: true
 images: []
-menu: main
-weight: 0
+tags: []
 ---
