@@ -81,10 +81,10 @@ themesDir = "themes"
 
 [params.form]
     show = true
-    netlify = false
+    netlify = true
     action = ""
     method = "POST"
-    section = "联系我们!"
+    section = "联系我们"
     disclaimer = "本联系方式仅供测试"
     inputNameName = "Name"
     inputNameLabel = "Name"
@@ -99,7 +99,7 @@ themesDir = "themes"
     email = "xinchuanzhuxue@qq.com"
     # phone = "123456789+"
     # skype = "live:example"
-    address = "福建省光泽县第一中学"
+    address = "福建省光泽一中"
 
 [params.date]
     format = ""

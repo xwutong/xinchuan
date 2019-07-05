@@ -1,7 +1,7 @@
 ---
 title: ""
 draft: false
-weight: 2
+weight: 1
 images: ["images/bg.jpg"]
 borderColor: "purple"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "In Brief"
-draft: false
+draft: true
 weight: 3
 images: []
 borderColor: "cyan"
