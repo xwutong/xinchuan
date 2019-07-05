@@ -31,7 +31,7 @@ themesDir = "themes"
         privacyEnhanced = true
 
 [params]
-    description = "Piercer is a fast and customizable theme for Hugo. Designed with a mobile-first philosophy and with accessibility in mind."
+    description = "薪传助学是光泽一中校友发起成立的助学项目"
     favicon = "favicon.ico"
     logo = ""
 
@@ -72,7 +72,7 @@ themesDir = "themes"
 [params.cta]
     show = true
     message = "我要申请"
-    link = "https://"
+    link = "https://xinchuan.love/getxinchuan/"
 
 [params.fa]
     disable = false
