@@ -9,7 +9,9 @@ images: []
 tags: ["账目公开", "工作报告"]
 ---
 
-![](/statments/005.jpg)<br/>
-![](/statments/006.jpg)<br/>
-![](/statments/007.jpg)<br/>
-![](/statments/008.jpg)<br/>
+提示：图片较多，请耐心等待页面装载。
+
+![](/statements/005.jpg)<br/>
+![](/statements/006.jpg)<br/>
+![](/statements/007.jpg)<br/>
+![](/statements/008.jpg)<br/>
