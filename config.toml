@@ -95,7 +95,7 @@ themesDir = "themes"
     SubmitValue = ""
 
 [params.contact]
-    show = true
+    show = false
     email = "xinchuanzhuxue@qq.com"
     # phone = "123456789+"
     # skype = "live:example"
