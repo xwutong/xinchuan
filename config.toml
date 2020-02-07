@@ -1,131 +1,50 @@
-baseurl = "/"
-title = "薪传助学"
-author = "薪小传 (xinchuan)"
-googleAnalytics = ""
-enableRobotsTXT = true
+baseURL = "/"
+languageCode = "zh-cn"
 defaultContentLanguage = "zh"
-language = "zh-CN"
-paginate = 3
-
-theme = "piercer"
+title = "薪传助学"
 themesDir = "themes"
-
-[privacy]
-    [privacy.googleAnalytics]
-        anonymizeIP = true
-        disable = false
-        respectDoNotTrack = true
-        useSessionStorage = false
-    [privacy.instagram]
-        disable = false
-        simple = false
-    [privacy.twitter]
-        disable = false
-        enableDNT = true
-        simple = false
-    [privacy.vimeo]
-        disable = false
-        simple = false
-    [privacy.youtube]
-        disable = false
-        privacyEnhanced = true
+theme = "hugo-serif-theme"
 
 [params]
-    description = "薪传助学是光泽一中校友发起成立的助学项目"
-    favicon = "favicon.ico"
-    logo = ""
+  # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
+  # google_analytics_id = ""
+  # google_tag_manager_id = ""
 
-[params.postcss]
-    postcss = false
+  [params.logo]
+    mobile = "images/logo-mobile.svg"
+    standard  = "images/logo.svg"
+    alt = "Serif - A Hugo Business Theme"
 
-[params.palette]
-    text = "#fdfdfd"
-    background = "#282a36"
-    accent = "#44475a"
-    foreground = "#f8f8f2"
-    separator = "#6272a4"
-    cyan = "#8be9fd"
-    green = "#50fa7b"
-    orange = "#ffb86c"
-    pink = "#ff79c6"
-    purple = "#bd93f9"
-    red = "#ff5555"
-    yellow = "#f1fa8c"
+  [params.homepage_meta_tags]
+    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_title = "Hugo Serif Theme"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-serif.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
 
-[params.fontsizes]
-    base = "1em"
-    p = "1.25em"
-    h4 = "1.563em"
-    h3 = "1.953em"
-    h2 = "2.441em"
-    h1 = "3.052em"
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "服务"
+    url = "/services/"
+      weight = 1
 
-[params.googlefonts]
-    font = ""
+  [[menu.main]]
+      name = "团队"
+      url = "/team/"
+      weight = 2
 
-[params.serviceWorker]
-    enable = true
+  # Footer Menu
+  [[menu.footer]]
+    name = "首页"
+    url = "/"
+      weight = 1
 
-[params.header]
-    show = true
-
-[params.cta]
-    show = true
-    message = "我要申请"
-    link = "https://xinchuan.love/getxinchuan/"
-
-[params.fa]
-    disable = false
-    version = "5.8.1"
-    integrity = "sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ"
-
-[params.form]
-    show = true
-    netlify = true
-    action = ""
-    method = "POST"
-    section = "联系我们"
-    disclaimer = "本联系方式仅供测试"
-    inputNameName = "Name"
-    inputNameLabel = "Name"
-    inputNamePlaceholder = "Your Name"
-    inputEmailName = "Email"
-    inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Your Email"
-    SubmitValue = ""
-
-[params.contact]
-    show = false
-    email = "xinchuanzhuxue@qq.com"
-    # phone = "123456789+"
-    # skype = "live:example"
-    address = "福建省光泽一中"
-
-[params.date]
-    format = ""
-
-[params.social]
-    # twitter = "#"
-    # facebook = "#"
-    github = "#"
-    # gitlab = "#"
-    # codepen = "#"
-    # instagram = "#"
-    # pinterest = "#"
-    # youtube = "#"
-    # linkedin = ""
-    weibo = "#"
-    # mastodon = ""
-    # tumblr = ""
-    # flickr = ""
-    # "500px" = ""
-    rss = "#"
-
-[params.copy]
-    message = ""
-
-[params.agreement]
-    message = "Xinchuan.love uses <a href=\"#\" alt=\"font awesome\">Font Awesome</a>. Proudly made with <a href=\"http://gohugo.io\" alt=\"Hugo\">Hugo</a>. "
-
-[params.notfound]
-    message = "哦豁，迷路了哟"
+  [[menu.footer]]
+    name = "联系"
+    url = "/contact/"
+      weight = 2
