@@ -7,6 +7,7 @@ author: "薪小传"
 draft: false
 images: []
 weight: 0
+menu: main
 ---
 
 各位高三毕业生：

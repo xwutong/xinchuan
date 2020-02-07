@@ -11,6 +11,7 @@ tags: ["账目公开", "工作报告"]
 
 提示：图片较多，请耐心等待页面加载。
 
+                                                                                                         .
 ![](/statements/005.jpg)<br/>
 ![](/statements/006.jpg)<br/>
 ![](/statements/007.jpg)<br/>
