@@ -3,11 +3,9 @@ title: "叶伟"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Initiator"
-linkedinurl: "https://www.linkedin.com/"
-weight: 1
+jobtitle: "策划"
+linkedinurl: ""
+weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+光泽县第一中学2004届高三九班毕业生，主要负责薪传助学项目的策划安排工作。
