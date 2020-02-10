@@ -4,7 +4,7 @@ description: "Xinchuan.love, since 2014"
 draft: false
 images: [images/about.jpg]
 menu: main
-weight: 2
+weight: 4
 ---
 
 自2014年启动以来，薪传助学金已累计募集资金6万余元，资助学生33人次；此外，部分赞助人还为3名学生提供了私人捐助。点击查看[账目公开](/tags/账目公开/)。
@@ -17,5 +17,14 @@ weight: 2
 * 2015年6月11日 累计募集善款11295.5元。
 * 2015年3月 第一期共捐助5人，每人1000元。
 * 2015年3月 累计募集善款10250元。
+
+| 募捐累计      | 资助累计   |
+| --------- | --------------- |
+| 林洁   | 15960397502 |
+| Wednesday | 8:30am - 5:00pm |
+| Thursday  | 8:30am - 5:00pm |
+| Friday    | 8:30am - 5:00pm |
+| Saturday  | 10:am - 4:00pm  |
+| Saturday  | Closed          |
 
 众人拾柴火焰高，[点击此处](/join)，加入我们。
