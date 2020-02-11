@@ -1,46 +1,15 @@
 ---
-title: "Tax Preperation"
+title: "多元支持"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 2
+weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+我们积极探索为有需要的学弟学妹提供多元化的支持与指导。
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
-
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
-
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+- 对于部分未获得助学金资助的申请人，我们为其联系安排私人资助。
+- 对于个别面临持续资金压力的申请人，部分赞助人为其提供无息借款。
+- 我们在征得同意基础上，组建受助学生微信群，为他们搭建交流信息、互帮互助的平台。
+- 我们吸收部分受助学生协助参与助学网站维护、家访材料整理等工作，让他们了解我们的工作，并请其为我们改进工作建言献策。
+- 下阶段，我们还将继续用好全体赞助人的团队优势，为有需要的学生提供更多支持，包括实习岗位、创业项目孵化等。
