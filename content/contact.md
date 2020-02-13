@@ -6,7 +6,7 @@ menu: 'main'
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+欢迎来电咨询。
 
 | Name      | Phone Numbers   |
 | --------- | --------------- |
