@@ -6,13 +6,10 @@ menu: 'main'
 weight: 5
 ---
 
-欢迎来电咨询。
+众人拾柴火焰高，如有意参与我们的活动，请与我们联系。
 
 | Name      | Phone Numbers   |
 | --------- | --------------- |
 | 林洁   | 15960397502 |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:00am - 4:00pm  |
-| Saturday  | Closed          |
+| 黄鲁翔 | 15505993705 |
+| 叶伟  | 微信：13811441558 |
