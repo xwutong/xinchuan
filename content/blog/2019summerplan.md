@@ -3,7 +3,7 @@ title: "2019年度大学新生批工作安排"
 description: "2019年7-8月份工作安排"
 publishDate: 2019-06-30T12:24:47+01:00
 author: "薪小传"
-draft: false
+draft: true
 images: []
 tags: ["计划", "大学新生批"]
 ---
