@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on 薪传助学</title>
+    <link>/team/</link>
+    <description>Recent content in Team on 薪传助学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>苏红</title>
+      <link>/team/suhong/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/suhong/</guid>
+      <description>光泽县第一中学教师。负责捐款账户管理和财务公开，申请开放期间还负责收取申请表。</description>
+    </item>
+    
+    <item>
+      <title>叶伟</title>
+      <link>/team/yewei2004/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/yewei2004/</guid>
+      <description>光泽县第一中学2004届高三九班毕业生，主要负责薪传助学项目的策划安排工作。</description>
+    </item>
+    
+    <item>
+      <title>黄鲁翔</title>
+      <link>/team/huangluxiang2004/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/huangluxiang2004/</guid>
+      <description>光泽县第一中学2004届高三五班毕业生，负责家访安排与网站开发。</description>
+    </item>
+    
+    <item>
+      <title>Canqz</title>
+      <link>/team/canqz2018/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/canqz2018/</guid>
+      <description>光泽县第一中学2018届高三五班毕业生，负责网站开发，参与家访。</description>
+    </item>
+    
+    <item>
+      <title>林洁</title>
+      <link>/team/linjie2004/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/linjie2004/</guid>
+      <description>光泽县第一中学2004届高三三班毕业生，主要负责薪传助学项目的家访和薪传借款池（内测）的日常运作。</description>
+    </item>
+    
+    <item>
+      <title>黄锦萍</title>
+      <link>/team/huangjinping2004/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/huangjinping2004/</guid>
+      <description>光泽县第一中学2004届高三七班毕业生，主要负责薪传助学项目的家访工作。</description>
+    </item>
+    
+  </channel>
+</rss>
