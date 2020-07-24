@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>记事 on 薪传助学</title>
+    <link>/tags/%E8%AE%B0%E4%BA%8B/</link>
+    <description>Recent content in 记事 on 薪传助学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Dec 2014 12:42:22 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/%E8%AE%B0%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>星星之火</title>
+      <link>/blog/birth/</link>
+      <pubDate>Fri, 26 Dec 2014 12:42:22 +0100</pubDate>
+      
+      <guid>/blog/birth/</guid>
+      <description>2014年12月，在光泽一中2004届部分校友的倡导下，薪传助学金成立。取名于“薪火相传”的这个助学金项目，旨在给予光泽一中部分家庭困难的学子经济支持，以使其心无旁骛地投入学习，助其成就未来。
+我们相信，点滴善意汇聚成河，分寸善举凝聚成山。每位校友的善意都将化为帮助学弟学妹们披荆斩棘、破浪前行的动力，帮助他们筑梦未来。
+我们更相信，自立者人恒立之，自助者天助之。暂时的困难阻挡不了有志者奋进的脚步，愿所有的薪传学子“心中有梦、眼里有光、脚下有路”。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
