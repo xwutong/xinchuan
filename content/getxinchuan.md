@@ -46,23 +46,21 @@ menu: main
  
 
 
-
-```
-
-
-
+<span> </span>  
+<span> </span>  
+<span> </span>  
 
 
 另外，强烈建议有需要的大一新生申请国家助学贷款，可通过以下渠道了解相关政策和信息：
 
-    * 教育部高校学生资助热线：010-66097980 或 010-66096590，7月15日至9月18日 8:00—20:00 
-    * 福建省高校学生资助热线： 400-0096095，全年工作日 9:00—18:00
-    * 国家开发银行生源地信用助学贷款申请指南：
-      http://www.csls.cdb.com.cn/wtzx/dksqlwt/201911/t20191115_6892.html
-    * 邮政储蓄银行生源地信用助学贷款申请指南：
-      http://www.psbc.com/cn/BranchChannel/hddq/fujian/fjsRecommendation/54186.html
+  * 教育部高校学生资助热线：010-66097980 或 010-66096590，7月15日至9月18日 8:00—20:00 
+  * 福建省高校学生资助热线： 400-0096095，全年工作日 9:00—18:00
+  * 国家开发银行生源地信用助学贷款申请指南：
+    http://www.csls.cdb.com.cn/wtzx/dksqlwt/201911/t20191115_6892.html
+  * 邮政储蓄银行生源地信用助学贷款申请指南：
+    http://www.psbc.com/cn/BranchChannel/hddq/fujian/fjsRecommendation/54186.html
                                                                   
-```
+
 
 
 
