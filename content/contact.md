@@ -1,6 +1,7 @@
 ---
 title: '联系我们'
 date: 2018-02-22T17:01:34+07:00
+draft: true
 layout: contact
 menu: 'main'
 weight: 5
