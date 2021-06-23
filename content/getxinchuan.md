@@ -55,7 +55,7 @@ menu: main
 
   * 教育部学生资助管理中心网站：http://www.xszz.cee.edu.cn/
   * 国家开发银行生源地信用助学贷款[申请指南](http://www.csls.cdb.com.cn/wtzx/dksqlwt/201911/t20191115_6892.html)
-  * 邮政储蓄银行生源地信用助学贷款[申请指南](http://www.psbc.com/cn/BranchChannel/hddq/fujian/fjsRecommendation/54186.html)
+  * 邮政储蓄银行生源地信用助学贷款[申请指南](https://www.psbc.com/cn/fhpd/hddq/fjsfh/zdtj_1163/202103/t20210301_67397.html)
                                                                   
 
 
