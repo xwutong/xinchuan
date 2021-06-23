@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "服务"
+    name = "宗旨"
     url = "/services/"
       weight = 1
 
@@ -44,7 +44,4 @@ theme = "hugo-serif-theme"
     url = "/"
       weight = 1
 
-  [[menu.footer]]
-    name = "联系"
-    url = "/contact/"
-      weight = 2
+
