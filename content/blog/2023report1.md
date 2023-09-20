@@ -1,8 +1,8 @@
 ---
 title: "2023年9月工作报告"
 description: "薪传助学金第十二期工作简况"
-date: 2015-05-04T12:39:56+01:00
-publishDate: 2015-05-04T12:39:56+01:00
+date: 2023-09-20T12:39:56+01:00
+publishDate: 2023-09-20T12:39:56+01:00
 author: "薪小传"
 draft: false
 images: []
